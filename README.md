@@ -5,7 +5,7 @@ A pure javascript JPEG encoder and decoder for node.js
 NOT MADE BY ME
 
 ``` bash
-npm install --save git+ssh://git@github.com/anzerr/jpg.util.git
+npm install --save git+http://git@github.com/anzerr/jpg.util.git
 ```
 
 ## Installation
