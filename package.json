@@ -12,20 +12,25 @@
 		"jpg",
 		"js"
 	],
+	"homepage": "https://github.com/anzerr/jpg.util#readme",
 	"bugs": {
-		"url": "https://github.com/eugeneware/jpeg-js/issues"
+		"url": "https://github.com/anzerr/jpg.util/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/eugeneware/jpeg-js"
+		"url": "git@github.com:anzerr/jpg.util.git"
 	},
-	"license": "BSD-3-Clause",
-	"author": "Eugene Ware <eugene@noblesamurai.com>",
+	"license": "MIT",
+	"author": "anzerr",
 	"main": "index.js",
+	"types": "index.d.ts",
 	"scripts": {},
 	"dependencies": {},
 	"devDependencies": {
 		"redtape": "~0.1.0",
 		"tape": "~2.3.2"
+	},
+	"engines": {
+		"node": ">= 0.10.0"
 	}
 }
