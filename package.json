@@ -2,27 +2,27 @@
 	"name": "jpg.util",
 	"version": "0.3.4",
 	"description": "A pure javascript JPEG encoder and decoder",
-	"main": "index.js",
-	"scripts": {},
+	"keywords": [
+		"codec",
+		"decoder",
+		"encoder",
+		"image",
+		"javascript",
+		"jpeg",
+		"jpg",
+		"js"
+	],
+	"bugs": {
+		"url": "https://github.com/eugeneware/jpeg-js/issues"
+	},
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/eugeneware/jpeg-js"
 	},
-	"keywords": [
-		"jpeg",
-		"jpg",
-		"encoder",
-		"decoder",
-		"codec",
-		"image",
-		"javascript",
-		"js"
-	],
-	"author": "Eugene Ware <eugene@noblesamurai.com>",
 	"license": "BSD-3-Clause",
-	"bugs": {
-		"url": "https://github.com/eugeneware/jpeg-js/issues"
-	},
+	"author": "Eugene Ware <eugene@noblesamurai.com>",
+	"main": "index.js",
+	"scripts": {},
 	"dependencies": {},
 	"devDependencies": {
 		"redtape": "~0.1.0",
