@@ -1,4 +1,6 @@
+
 # jpeg-js
+![GitHub Actions status | publish](https://github.com/anzerr/jpg.util/workflows/publish/badge.svg)
 
 A pure javascript JPEG encoder and decoder for node.js
 
