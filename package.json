@@ -1,6 +1,6 @@
 {
 	"name": "jpg.util",
-	"version": "0.3.10",
+	"version": "0.3.11",
 	"description": "A pure javascript JPEG encoder and decoder",
 	"keywords": [
 		"codec",
